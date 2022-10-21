@@ -13,3 +13,12 @@
 
 
 }
+
+@media(max-width:340px){
+    .codigo{
+        margin-top: 50px;
+    }
+    .card{
+        height: 330px;
+    }
+}
