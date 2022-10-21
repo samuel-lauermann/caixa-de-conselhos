@@ -1,0 +1,15 @@
+@media(max-width: 480px){
+    .card{
+        width: 350px;
+        gap: 0;
+    }
+    .card p{
+        font-size: 21px;
+        padding: 20px;
+    }
+    .container-dado{
+        transform: translateY(10px);
+    }
+
+
+}
